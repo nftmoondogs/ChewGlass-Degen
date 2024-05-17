@@ -1,0 +1,118 @@
+{
+  "bio": {
+    "heading": "$ChewGlass",
+    "description": "",
+    "offerings": ".",
+    "descriptionExtended": "<span class='text-primary-color'>I am the fking manifestation of your worst frustration turned into an Infinite void of aggression of a Sol Token</span>",
+
+    "media": "/assets/logo/1.gif",
+    "button": {
+      "link": "/",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "credentials": {
+    "heading": "hELP MY FKing S!NGULARITYYY",
+    "caption": "All Devs ChewGlass while developing on Solana using fking rust",
+    "media": "/assets/logo/2.gif",
+    "button": {
+      "link": "/",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "cv": {
+    "heading": "Why you look sad?",
+    "caption": "",
+    "media": "https://images-cdn.exchange.art/PxzvR36oiFCNc9YaH68H7F6h2k3_4zHtQlUNv5VtCF0?ext=fastly&optimize=medium",
+    "button": {
+      "link": "/portfolio",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "blog": {
+    "caption": "",
+    "heading": "SHATTER TAK FAK FAK",
+    "media": "https://images-cdn.exchange.art/ipfs/bafybeifcbj5olxtfewtgt7op6wbmfev35aymwbby6ehxbgkmf7zhkeygpe?ext=gif&quality=20&width=300&blur=80&format=pjpg&auto=webp",
+    "button": {
+      "link": "/posts",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "offerings": {
+
+    "link": "/offerings",
+    "media": "https://images-cdn.exchange.art/ipfs/bafybeid3hc7xxjhkvpsjvq5fg5pfm4on6pqytethhqmv3sjcpg43qurlgi?ext=gif&quality=20&width=300&blur=80&format=pjpg&auto=webp",
+
+    "icons": [
+
+    ],
+    "button": {
+      "link": "/offerings",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "profiles": {
+    "heading": "fked retards Tele.64",
+    "caption": "fking community of mentally fked retards",
+    "media": "https://images-cdn.exchange.art/6mYh6wpPxb99pY7YZl1fIuWnhI8_OO8dEVqom8ni3V4?ext=fastly&optimize=medium",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    },
+    "profiles": [
+      {
+        "link": "https://twitter.com/solchewglass",
+        "icon": "iconoir-twitter"
+      },
+      {
+        "link": "https://t.me/chewglass",
+        "icon": "iconoir-telegram"
+      }
+    ]
+  },
+  "facts": {
+    "quickFacts": [
+      {
+        "count": "6+",
+        "label": "YEARS <br /> EXPERIENCE"
+      },
+      {
+        "count": "60+",
+        "label": "CONSULTATIONS <br /> CONDUCTED"
+      },
+      {
+        "count": "12+",
+        "label": "PRODUCTION <br /> APPLICATIONS"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "$ChewGlass <br /> is Live on <span>Degen.Fund</span>",
+    "media": "https://images-cdn.exchange.art/Gl4X2RFf5bmabkUkWYuQS_uTQ3HMPVlfo3JGGQ5vQGI?ext=fastly&optimize=medium",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  }
+}
